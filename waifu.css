@@ -94,7 +94,7 @@
 }
 
 #waifu-tool span {
-	color: #5b6c7d;
+	color: #f77759;
 	cursor: pointer;
 	display: block;
 	line-height: 30px;
@@ -103,7 +103,7 @@
 }
 
 #waifu-tool span:hover {
-	color: #0684bd; /* #34495e */
+	color: #fbb197; /* #34495e */
 }
 
 @keyframes shake {
